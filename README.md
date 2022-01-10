@@ -68,6 +68,7 @@ for i in range(n):
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/94228215/148724546-fbf7c615-2ce1-4dc5-a5fa-83b2db6ee44d.png)
 
 
 
